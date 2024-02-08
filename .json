@@ -1,0 +1,25 @@
+{
+    "WindDirection": {
+            "N": "Norte",
+            "S": "Sul",
+            "E": "Leste",
+            "W": "Oeste",
+            "NE": "Nordeste",
+            "NW": "Noroeste",
+            "SE": "Sudeste",
+            "SW": "Sudoeste"
+    },
+    "WeatherPorcentage": {
+        "0": "Céu completamente limpo, sem nuvens no céu, excelente visibilidade.",
+        "1": "Céu praticamente limpo, com pouquíssimas nuvens, visibilidade excelente.",
+        "2": "Céu predominantemente limpo, com algumas nuvens dispersas, visibilidade   muito boa.",
+        "3": "Céu parcialmente nublado, algumas nuvens presentes, visibilidade boa.",
+        "4": "Céu parcialmente nublado, nuvens dispersas, visibilidade razoável.",
+        "5": "Céu meio nublado, algumas nuvens visíveis, visibilidade moderada.",
+        "6": "Céu predominantemente nublado, nuvens consideráveis, visibilidade moderada.",
+        "7": "Céu nublado, muitas nuvens, visibilidade reduzida.",
+        "8": "Céu nublado, coberto por nuvens, visibilidade reduzida.",
+        "9": "Céu bastante nublado, céu quase completamente encoberto por nuvens, visibilidade muito reduzida.",
+        "10": "Céu totalmente nublado, coberto por nuvens densas, visibilidade muito reduzida."
+    }
+}

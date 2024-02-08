@@ -1,0 +1,53 @@
+Previsão astronômica:
+
+Início: 06/02/2024 12:00 AM.
+
+06/02/2024 
+- 15:00 
+- {%} de nuvens no céu 
+-  A umidade relativa do ar está em {%} 
+- Ventos de 3 km/h (m/s * 3,6 = km/h) estão previstos para hoje, com direção Norte. 
+- Espera-se um dia [limpo/chuvoso], com temperatura de [temperatura]°C. Prepare-se adequadamente e aproveite o dia!
+
+06/02/2024 - 18:00 - 
+06/02/2024 - 21:00 - 
+06/02/2024 - 24:00 - 
+07/02/2024 - 03:00 - 
+07/02/2024 - 06:00 - 
+07/02/2024 - 09:00 - 
+07/02/2024 - 12:00 - 
+07/02/2024 - 15:00 - 
+07/02/2024 - 18:00 - 
+07/02/2024 - 21:00 - 
+07/02/2024 - 24:00 - 
+08/02/2024 - 03:00 - 
+08/02/2024 - 06:00 - 
+08/02/2024 - 09:00 - 
+08/02/2024 - 12:00 - 
+08/02/2024 - 15:00 - 
+08/02/2024 - 18:00 - 
+08/02/2024 - 21:00 - 
+08/02/2024 - 24:00 - 
+09/02/2024 - 03:00 - 
+09/02/2024 - 06:00 - 
+09/02/2024 - 09:00 - 
+09/02/2024 - 12:00 - 
+
+
+Para ventos de até 5 km/h:
+"Hoje, esperamos ventos suaves, com velocidade de até 5 km/h. Aproveite o clima calmo para desfrutar de atividades ao ar livre com tranquilidade."
+
+Para ventos de até 15 km/h:
+"Ventos moderados, com velocidade de até 15 km/h, estão previstos para o dia de hoje. Prepare-se para uma brisa refrescante enquanto aproveita o dia."
+
+Para ventos de até 25 km/h:
+"Alerta de vento! Espera-se que os ventos atinjam até 25 km/h nas próximas horas. Certifique-se de que objetos leves estejam bem fixados."
+
+Para ventos de até 35 km/h:
+"Previsão meteorológica: Ventos fortes podem ocorrer, atingindo até 35 km/h. Por favor, tome cuidado ao dirigir e esteja preparado para rajadas de vento."
+
+Para ventos de até 45 km/h:
+"Atenção: Rajadas de vento com velocidades de até 45 km/h estão previstas para hoje. Mantenha-se alerta ao ar livre e evite atividades vulneráveis ao vento."
+
+Para ventos de até 55 km/h:
+"Alerta de vento forte! Ventos de até 55 km/h são esperados nas próximas horas. Por favor, tome medidas de segurança e evite áreas abertas e exposição ao vento."
